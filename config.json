@@ -1,0 +1,6 @@
+{
+    "discord" : "True / False",
+    "user_id" : "your id goes here",
+    "url" : "your discord webhook goes here",
+    "intervel" : 30
+}

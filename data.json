@@ -1,0 +1,12 @@
+[
+    {
+        "name": "service1",
+        "ip": "ip1",
+        "port": 80
+    },
+    {
+        "name": "service2",
+        "ip": "ip2",
+        "port": 8080
+    }
+]
