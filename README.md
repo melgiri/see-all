@@ -42,4 +42,6 @@ Also fill your discord user id and webhook url.
 
 To setup services follow the patterns followed in the `data.json` file.
 
+> Note: You can use normal ipv4. It also works with domain names.
+
 ### Thank you for using SEE ALL
