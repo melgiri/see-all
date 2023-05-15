@@ -8,20 +8,21 @@ This is a small script to monitor your Service EASILY.
 
 Download the zip of this project or clone using the command
 ```
-git clone a
+git clone git@github.com:melgiritechnology/see-all.git
 ```
 
-> `socket`, `threading`, `requests` are the packages you need to install if you dont have.
+> `socket`, `threading`, `requests` are the python packages you need to install if you dont have. You can install using these commands
 
 ```
-pip3 install socket
-pip3 install threading
-pip3 install requests
+pip install socket
+pip install threading
+pip install requests
 ```
 
 Go to `config.json` to config.
 
-If you want discord webhook notification when service stuff is Inactive.
+If you want discord webhook notification when service stuff is Inactive do the following things.
+
 > Remember it will keep messaging you if the service is off which you dont want or it is under maintenance until you remove the details of that service.
 
 If you want discord notification change the code from this
@@ -41,4 +42,4 @@ Also fill your discord user id and webhook url.
 
 To setup services follow the patterns followed in the `data.json` file.
 
-# Thank you for using SEE ALL
+### Thank you for using SEE ALL
