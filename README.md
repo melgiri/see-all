@@ -21,7 +21,7 @@ pip install requests
 
 Go to `config.json` to config.
 
-If you want discord webhook notification when service is Inactive do the following things.
+If you want discord notification when service is Inactive do the following things.
 
 > Remember, it will keep messaging you if the service is off until you remove the details of that service.
 
@@ -43,5 +43,7 @@ Also fill your discord user id and webhook url.
 To setup services follow the patterns followed in the `data.json` file.
 
 > Note: You can use normal ipv4. It also works with domain names.
+
+> Whenever you run the python script note that it will run constantly and show the status of the services in the console. If you stop it, it will not work. It is recommended to run it in background. Also if you put intervel to very low number it may harm your system and services.
 
 ### Thank you for using SEE ALL
