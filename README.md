@@ -1,4 +1,4 @@
-# Welcome to SEE (ALL)
+# Welcome to SEE ALL
 
 This is a small script to monitor your Service EASILY.
 
