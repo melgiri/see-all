@@ -1,12 +1,16 @@
 [
     {
         "name": "service1",
-        "ip": "ip1",
-        "port": 80
+        "ip": "127.0.0.1",
+        "port": 8080,
+        "protocol": "tcp / udp",
+        "ipv": "4 / 6"
     },
     {
         "name": "service2",
-        "ip": "ip2",
-        "port": 8080
+        "ip": "::1",
+        "port": 8080,
+        "protocol": "tcp / udp",
+        "ipv": "4 / 6"
     }
 ]
